@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+EJERCICIO 
+FINAL REALIZADO POR
+CARLOS
+CESAR
+MARIA
+
+se mandan los cambios
 ## Available Scripts
 
 In the project directory, you can run:
